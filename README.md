@@ -7,15 +7,10 @@ I’m interested in development of Data Science, AI/ ML Model, Interactive Web A
 
 
 - 🌐 [Pingle AI](http://pingle-ai.ap-south-1.elasticbeanstalk.com/) - Real time web search for any query (more like perplexity pro)  
-
 - 🔍︎ [Context Search](https://chromewebstore.google.com/detail/nkophhooeaibajkbmabbpfbkmchobdka?utm_source=item-share-cb) - Search for context / semantic similarity on the webpage  
-
 - 🎬 IMDb Scanner  
-
 - 👥💬 Meeting Insights & Transcripts - Get transcripts & insights for any meeting video  
-
 - ⚡ FFT App - Fast Fourier Transform Real life Scenarios  
-
 - ⭐ Youtube Video Rater  
 
 <!---
