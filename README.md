@@ -2,7 +2,7 @@
 
 ---
 
-I’m interested in development of Data Science, AI/ ML Model, Interactive Web Apps. I’m looking to collaborate on interesting & useful projects. Reach me at rishi18b@gmail.com
+I’m interested in development of Data Science, AI/ ML Model, Interactive Web Apps. I’m looking to collaborate on interesting & useful projects. Reach me at rishi.18b@gmail.com
 
 ### Projects
 
