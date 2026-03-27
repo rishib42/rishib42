@@ -1,4 +1,4 @@
-# Hi, I’m rishi 👋 
+# Hi, I’m Rishi 👋 
 
 I build solutions in Data Science, AI/ML, and practical, interactive web applications.
 With 15+ years of experience in machine learning and data analytics, I enjoy turning data into useful products.
