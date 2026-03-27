@@ -12,7 +12,7 @@ I’m interested in development of Data Science, AI/ ML Model, Interactive Web A
   
 - 🎬 IMDb Scanner
   
-- 👥💬 Meeting Insights & Transcripts - Get transcripts & insights for any meeting video
+- 💡 Meeting Insights & Transcripts - Get transcripts & insights for any meeting video
   
 - ⚡ FFT App - Fast Fourier Transform Real life Scenarios
   
