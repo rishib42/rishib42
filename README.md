@@ -18,7 +18,7 @@ I’m open to collaborating on meaningful and innovative projects.
   
 - ⚡ **[FFT-hands-on](https://fft-hands-on.vercel.app/)** - Fast Fourier Transform Real life Scenarios
   
-- ⭐ **Youtube Vibe Check** - Check the rating of youtube video before investing your time in it  
+- ⭐ **Youtube Vibe Check** - Check the rating of youtube video before investing your time in it (IMDb for Youtube videos)
 
 <!---
 rishibh7/rishibh7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
