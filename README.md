@@ -1,7 +1,14 @@
 # Hi, I’m rishi 👋 
 
-
-I work on Data Science Projects, AI/ ML Models, useful & practical Interactive Web Apps. looking to collaborate on interesting projects. Reach me at rishi.18b@gmail.com
+```python
+profile = {
+    "work"       : ["Data Science", "AI/ML Models", "Interactive Web Apps"],
+    "experience" : "15+ years",
+    "about"      : "Turning raw data into real decisions, one model at a time.",
+    "email"      : "rishi.18b@gmail.com",
+    "status"     : "Open to collabs on interesting & useful projects 🚀"
+}
+```
 
 ## Projects 
 
