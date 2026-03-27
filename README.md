@@ -16,7 +16,7 @@ I’m open to collaborating on meaningful and innovative projects.
   
 - 💡 Meeting Insights & Transcripts - Get transcripts & insights for any meeting video
   
-- ⚡ FFT App - Fast Fourier Transform Real life Scenarios
+- ⚡ [FFT-hands-on](https://fft-hands-on.vercel.app/) - Fast Fourier Transform Real life Scenarios
   
 - ⭐ Youtube Video Rater  
 
