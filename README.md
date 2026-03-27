@@ -8,7 +8,7 @@
 ### Projects:
 
 1. Pingle AI
-2. (Context Search)[https://chromewebstore.google.com/detail/context-search/nkophhooeaibajkbmabbpfbkmchobdka]
+2. [Context Search](https://chromewebstore.google.com/detail/context-search/nkophhooeaibajkbmabbpfbkmchobdka]) 
 
 <!---
 rishibh7/rishibh7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
