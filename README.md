@@ -1,4 +1,5 @@
-👋 Hi, I’m @rishibh7
+### Hi, I’m rishi 👋 
+---
 
 - 👀 I’m interested in development of Data Science, AI/ ML Model, Interactive Web Apps
 - 🌱 I’m currently learning Deployment on AWS/ Azure
