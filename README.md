@@ -1,16 +1,7 @@
 # Hi, I’m rishi 👋 
 
 
-```python
-def introduce(name="Rishi"):
-    about      = "ML engineer & data nerd who loves building things that matter."
-    skills     = ["Data Science", "AI/ML", "Interactive Web Apps"]
-    experience = "15+ years"
-    email      = "rishi.b@gmail.com"
-    status     = "Open to collabs 🚀"
-    
-    return f"Hey, I'm {name}. Let's build something awesome → {email}"
-```
+I work on Data Science Projects, AI/ ML Models, useful & practical Interactive Web Apps. looking to collaborate on interesting projects. Reach me at rishi.18b@gmail.com
 
 ## Projects 
 
