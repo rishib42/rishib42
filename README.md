@@ -1,7 +1,11 @@
 # Hi, I’m rishi 👋 
 
 
-I’m interested in development of Data Science, AI/ ML Model, Interactive Web Apps. I’m looking to collaborate on interesting & useful projects. Reach me at rishi.18b@gmail.com
+```python
+skills = ["ML Models", "Data Science", "AI", "Interactive Web Apps"]
+experience = "15+ years"
+status = "Open to collabs 🚀"
+```
 
 ## Projects 
 
