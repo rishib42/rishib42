@@ -1,14 +1,9 @@
 # Hi, I’m rishi 👋 
 
-```python
-profile = {
-    "work"       : ["Data Science", "AI/ML Models", "Interactive Web Apps"],
-    "experience" : "15+ years",
-    "about"      : "Turning raw data into real decisions, one model at a time.",
-    "email"      : "rishi.18b@gmail.com",
-    "status"     : "Open to collabs on interesting & useful projects 🚀"
-}
-```
+I build solutions in Data Science, AI/ML, and practical, interactive web applications.
+With 15+ years of experience in machine learning and data analytics, I enjoy turning data into useful products.
+I’m open to collaborating on meaningful and innovative projects.
+📫 Reach me at rishi.18b@gmail.com
 
 ## Projects 
 
