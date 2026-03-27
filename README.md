@@ -2,10 +2,7 @@
 
 ---
 
-- 👀 I’m interested in development of Data Science, AI/ ML Model, Interactive Web Apps
-- 🌱 I’m currently learning Deployment on AWS/ Azure
-- 💞️ I’m looking to collaborate on interesting & useful projects.
-- 📫 Reach me @ rishi18b@gmail.com
+I’m interested in development of Data Science, AI/ ML Model, Interactive Web Apps. I’m looking to collaborate on interesting & useful projects. Reach me at rishi18b@gmail.com
 
 ### Projects
 
