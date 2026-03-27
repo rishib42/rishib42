@@ -12,13 +12,13 @@ I’m open to collaborating on meaningful and innovative projects.
   
 - 🔍︎ **[ContextSearch](https://chromewebstore.google.com/detail/nkophhooeaibajkbmabbpfbkmchobdka?utm_source=item-share-cb)** - Search for context / semantic similarity on the webpage
   
-- 🎬 IMDb Scanner
+- 🎬 **IMDb Scanner**
   
-- 💡 Meeting Insights & Transcripts - Get transcripts & insights for any meeting video
+- 💡 **Meeting Insights** - Get transcripts & insights for any meeting video
   
-- ⚡ [FFT-hands-on](https://fft-hands-on.vercel.app/) - Fast Fourier Transform Real life Scenarios
+- ⚡ **[FFT-hands-on](https://fft-hands-on.vercel.app/)** - Fast Fourier Transform Real life Scenarios
   
-- ⭐ Youtube Video Rater  
+- ⭐ **Youtube Vibe Check** - Check the rating of youtube video before investing your time in it  
 
 <!---
 rishibh7/rishibh7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
