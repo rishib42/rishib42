@@ -12,7 +12,7 @@ I’m open to collaborating on meaningful and innovative projects.
   
 - 🔍︎ **[ContextSearch](https://chromewebstore.google.com/detail/nkophhooeaibajkbmabbpfbkmchobdka?utm_source=item-share-cb)** - Search for context / semantic similarity on the webpage
   
-- 🎬 **IMDb Scanner**
+- 🎬 **[IMDb-Scan](https://imdb-scanner.streamlit.app/)** - Scan for IMDb details of any movie / series using your phone camera
   
 - 💡 **Meeting Insights** - Get transcripts & insights for any meeting video
   
