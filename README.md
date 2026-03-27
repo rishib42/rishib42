@@ -2,9 +2,14 @@
 
 
 ```python
-skills = ["ML Models", "Data Science", "AI", "Interactive Web Apps"]
-experience = "15+ years"
-status = "Open to collabs 🚀"
+def introduce(name="Rishi"):
+    about      = "ML engineer & data nerd who loves building things that matter."
+    skills     = ["Data Science", "AI/ML", "Interactive Web Apps"]
+    experience = "15+ years"
+    email      = "rishi.b@gmail.com"
+    status     = "Open to collabs 🚀"
+    
+    return f"Hey, I'm {name}. Let's build something awesome → {email}"
 ```
 
 ## Projects 
