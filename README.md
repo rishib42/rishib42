@@ -1,9 +1,9 @@
-## Hi, I’m rishi 👋 
+# Hi, I’m rishi 👋 
 
 
 I’m interested in development of Data Science, AI/ ML Model, Interactive Web Apps. I’m looking to collaborate on interesting & useful projects. Reach me at rishi.18b@gmail.com
 
-### Projects 
+## Projects 
 
 
 - 🌐 [Pingle AI](http://pingle-ai.ap-south-1.elasticbeanstalk.com/) - Real time web search for any query (more like perplexity pro)  
