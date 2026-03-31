@@ -13,12 +13,13 @@ I’m open to collaborating on meaningful and innovative projects.
 - 🔍︎ **[ContextSearch](https://chromewebstore.google.com/detail/nkophhooeaibajkbmabbpfbkmchobdka?utm_source=item-share-cb)** - Search for context / semantic similarity on the webpage
   
 - 🎬 **[IMDb-Scan](https://imdb-scanner.streamlit.app/)** - Scan for IMDb details of any movie / series using your phone camera
-  
-- 💡 **Meeting Insights** - Get transcripts & insights for any meeting video
-  
+    
 - ⚡ **[FFT-hands-on](https://fft-hands-on.vercel.app/)** - Fast Fourier Transform Real life Scenarios
   
 - ⭐ **[Youtube Vibe Check](https://chromewebstore.google.com/detail/youtube-vibe-check/makkbgfadcifbhphpfhmkbkbdbhkdokf)** - Check the rating of youtube video before investing your time in it (IMDb for Youtube videos)
+
+- 💡 **Meeting Insights** - Get transcripts & insights for any meeting video
+
 
 <!---
 rishibh7/rishibh7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
