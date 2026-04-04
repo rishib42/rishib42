@@ -12,7 +12,7 @@ I’m open to collaborating on meaningful and innovative projects.
   
 - 🔍︎ **[ContextSearch](https://chromewebstore.google.com/detail/nkophhooeaibajkbmabbpfbkmchobdka?utm_source=item-share-cb)** - Search for context / semantic similarity on the webpage
   
-- 🎬 **[IMDb-Scan](https://imdb-scanner.streamlit.app/)** - Scan for IMDb details of any movie / series using your phone camera
+- 🎬 **[IMDb-Scan](https://imdb-scan.vercel.app/)** - Scan for IMDb details of any movie / series using your phone camera
     
 - ⚡ **[FFT-hands-on](https://fft-hands-on.vercel.app/)** - Fast Fourier Transform Real life Scenarios
   
