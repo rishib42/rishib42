@@ -6,7 +6,7 @@ Open to collaborating on meaningful AI projects. 📫 rishi.18b@gmail.com
 
 ## Personal Projects 
 
-- 📄 Fynder](https://apps.apple.com/in/app/fynder-pdf-reader-search/id6813585265?mt=12) - Search PDFs by meaning & context, not just keywords, even within images.
+- 📄 [Fynder](https://apps.apple.com/in/app/fynder-pdf-reader-search/id6813585265?mt=12) - Search PDFs by meaning & context, not just keywords, even within images.
 
 - 🌐 [PingleAI](http://pingle-ai.ap-south-1.elasticbeanstalk.com/) - Real time web search for any query (more like perplexity pro)
   
