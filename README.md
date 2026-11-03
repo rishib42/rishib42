@@ -4,7 +4,7 @@ I tinker with Applied AI & ML applications, trying to build things that are usef
 With 15+ years of experience in AI, Machine Learning & Data Science, I enjoy turning data into useful products.
 Open to collaborating on meaningful AI projects. 📫 rishi.18b@gmail.com
 
-## Personal Projects 
+## AI Projects 
 
 - 🔦 [SpotFind](https://apps.apple.com/in/app/spotfind-search-by-meaning/id6824180164?mt=12) - Search files by description on Mac
 
