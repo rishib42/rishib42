@@ -6,7 +6,9 @@ Open to collaborating on meaningful AI projects. 📫 rishi.18b@gmail.com
 
 ## Personal Projects 
 
-- 📄 [Fynder](https://apps.apple.com/in/app/fynder-pdf-reader-search/id6813585265?mt=12) - Search PDFs by meaning & context, not just keywords, even within images.
+- ⬛ [Anon-it: PDF Redaction](https://apps.apple.com/in/app/anon-it-pdf-redaction/id6822278753) - Redact PII/ sensitive information on PDF using AI
+
+- 📄 [Fynder](https://apps.apple.com/in/app/fynder-pdf-reader-search/id6813585265?mt=12) - Search PDFs by meaning & context, not just keywords, even within images with AI
 
 - 🌐 [PingleAI](http://pingle-ai.ap-south-1.elasticbeanstalk.com/) - Real time web search for any query (more like perplexity pro)
   
